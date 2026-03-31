@@ -1,5 +1,5 @@
 # Copyright (c) 2024
 # SPDX-License-Identifier: Apache-2.0
 
-config BOARD_XWING_DUMBER
+config BOARD_XWING_DUMB
 	select SOC_STM32H563XX

@@ -1,5 +1,5 @@
-identifier: xwing_dumber
-name: X-Wing Dumber FCC
+identifier: xwing_dumb
+name: X-Wing Dumb FCC
 type: mcu
 arch: arm
 toolchain:

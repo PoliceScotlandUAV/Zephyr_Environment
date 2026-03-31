@@ -3,9 +3,9 @@
 # Copyright (c) 2023 Thomas Stranger
 # SPDX-License-Identifier: Apache-2.0
 
-if BOARD_XWING_DUMBER
+if BOARD_XWING_DUMB
 
 config BOARD
-	default "xwing_dumber"
+	default "xwing_dumb"
 
-endif # BOARD_XWING_DUMBER
+endif # BOARD_XWING_DUMB

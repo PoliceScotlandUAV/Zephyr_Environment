@@ -1,6 +1,6 @@
 board:
-  name: xwing_dumber
-  full_name: XWing Dumber FCC
+  name: xwing_dumb
+  full_name: XWing Dumb FCC
   vendor: st
   socs:
     - name: stm32h563xx

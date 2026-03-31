@@ -6,7 +6,7 @@
  */
 
 /dts-v1/;
-#include "xwing_dumber-common.dtsi"
+#include "xwing_dumb-common.dtsi"
 
 / {
 	model = "STMicroelectronics STM32H563ZI-NUCLEO board";
