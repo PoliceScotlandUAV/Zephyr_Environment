@@ -1,0 +1,18 @@
+{
+    "zephyr-workbench.westWorkspace": "c:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace",
+    "zephyr-workbench.board": "xwing_dumber",
+    "zephyr-workbench.toolchain": "zephyr_sdk",
+    "zephyr-workbench.sdk": "c:\\Users\\yukis\\ZephyrWorkbench\\Toolchains\\ZephyrSDK\\zephyr-sdk-1.0.1",
+    "zephyr-workbench.build.pristine": "auto",
+    "zephyr-workbench.build.configurations": [
+        {
+            "name": "primary",
+            "board": "xwing_dumber",
+            "active": "true"
+        }
+    ],
+    "cmake.configureOnOpen": false,
+    "cmake.enableAutomaticKitScan": false,
+    "C_Cpp.default.compilerPath": "c:\\Users\\yukis\\ZephyrWorkbench\\Toolchains\\ZephyrSDK\\zephyr-sdk-1.0.1\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}\\build\\primary\\compile_commands.json"
+}
