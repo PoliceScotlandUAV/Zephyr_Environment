@@ -1,0 +1,2 @@
+# Load board Kconfig descriptions.
+osource "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/Kconfig.xwing_dumber"

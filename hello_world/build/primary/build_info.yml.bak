@@ -1,0 +1,5 @@
+west:
+  command: C:\Users\yukis\.zinstaller\.venv\Scripts\west build -p always --board xwing_dumber
+    --build-dir C:\Users\yukis\ZephyrWorkbench\ASDP4_Workspace\hello_world/build/primary
+  topdir: C:\Users\yukis\ZephyrWorkbench\ASDP4_Workspace
+  version: 1.5.0

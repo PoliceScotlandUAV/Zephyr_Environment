@@ -1,0 +1,85 @@
+modules:
+- name: cmsis
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis
+  remote: https://github.com/zephyrproject-rtos/cmsis
+  revision: 512cc7e895e8491696b61f7ba8066b4a182569b8
+- name: cmsis-dsp
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/cmsis-dsp
+  remote: https://github.com/zephyrproject-rtos/cmsis-dsp
+  revision: 97512610ec92058f0119450b9e743eeb7e95b5c8
+- name: cmsis_6
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis_6
+  remote: https://github.com/zephyrproject-rtos/CMSIS_6
+  revision: 30a859f44ef8ab4dc8f84b03ed586fd16ccf9d74
+- name: hal_stm32
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32
+  remote: https://github.com/zephyrproject-rtos/hal_stm32
+  revision: 4ceafbebc77571f540d2ff9957468a1bfedb41d5
+- name: mcuboot
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/bootloader/mcuboot
+  remote: https://github.com/zephyrproject-rtos/mcuboot
+  revision: cf5810201c84d6e266aeda2abdab80854066ac08
+- name: percepio
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/debug/percepio
+  remote: https://github.com/zephyrproject-rtos/percepio
+  revision: f9159fe3c79578e8d90c8593e83f9862d9b8962c
+- name: picolibc
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/picolibc
+  remote: https://github.com/zephyrproject-rtos/picolibc
+  revision: 01254932e8e81085817ed61fd858648584ffe37c
+- name: segger
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/debug/segger
+  remote: https://github.com/zephyrproject-rtos/segger
+  revision: 50892fdbcf2f570e67baa72b8894a66b16946f72
+west:
+  manifest: C:\Users\yukis\ZephyrWorkbench\ASDP4_Workspace\manifest\west.yml
+  projects:
+  - path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/manifest
+    revision: unknown
+  - path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr
+    remote: https://github.com/zephyrproject-rtos/zephyr
+    revision: 77b0ef9da94480c4aced17e5484e306ced186db2
+    tags:
+    - v4.4.0-rc1
+  - name: cmsis
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis
+    remote: https://github.com/zephyrproject-rtos/cmsis
+    revision: 512cc7e895e8491696b61f7ba8066b4a182569b8
+  - name: cmsis-dsp
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/cmsis-dsp
+    remote: https://github.com/zephyrproject-rtos/cmsis-dsp
+    revision: 97512610ec92058f0119450b9e743eeb7e95b5c8
+  - name: cmsis_6
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis_6
+    remote: https://github.com/zephyrproject-rtos/CMSIS_6
+    revision: 30a859f44ef8ab4dc8f84b03ed586fd16ccf9d74
+  - name: hal_stm32
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32
+    remote: https://github.com/zephyrproject-rtos/hal_stm32
+    revision: 4ceafbebc77571f540d2ff9957468a1bfedb41d5
+  - name: mcuboot
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/bootloader/mcuboot
+    remote: https://github.com/zephyrproject-rtos/mcuboot
+    revision: cf5810201c84d6e266aeda2abdab80854066ac08
+  - name: percepio
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/debug/percepio
+    remote: https://github.com/zephyrproject-rtos/percepio
+    revision: f9159fe3c79578e8d90c8593e83f9862d9b8962c
+  - name: picolibc
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/picolibc
+    remote: https://github.com/zephyrproject-rtos/picolibc
+    revision: 01254932e8e81085817ed61fd858648584ffe37c
+  - name: segger
+    path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/debug/segger
+    remote: https://github.com/zephyrproject-rtos/segger
+    revision: 50892fdbcf2f570e67baa72b8894a66b16946f72
+workspace:
+  dirty: false
+  extra: false
+  'off': true
+zephyr:
+  path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr
+  remote: https://github.com/zephyrproject-rtos/zephyr
+  revision: 77b0ef9da94480c4aced17e5484e306ced186db2
+  tags:
+  - v4.4.0-rc1

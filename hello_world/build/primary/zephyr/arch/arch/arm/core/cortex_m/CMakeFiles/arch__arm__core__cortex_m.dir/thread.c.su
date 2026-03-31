@@ -1,0 +1,6 @@
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm/core/cortex_m/thread.c:90:6:arch_new_thread	4	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm/core/cortex_m/thread.c:329:6:configure_builtin_stack_guard	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm/core/cortex_m/thread.c:527:5:arch_coprocessors_disable	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm/core/cortex_m/thread.c:564:6:arch_switch_to_main_thread	4	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm/core/cortex_m/thread.c:658:13:arch_irq_unlock_outlined	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm/core/cortex_m/thread.c:667:21:arch_irq_lock_outlined	0	static

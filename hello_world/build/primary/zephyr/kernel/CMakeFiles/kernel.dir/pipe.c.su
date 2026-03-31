@@ -1,0 +1,7 @@
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:93:15:copy_to_pending_readers	40	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:37:12:wait_for	32	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:67:6:z_impl_k_pipe_init	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:147:5:z_impl_k_pipe_write	64	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:220:5:z_impl_k_pipe_read	80	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:273:6:z_impl_k_pipe_reset	16	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/kernel/pipe.c:287:6:z_impl_k_pipe_close	16	static

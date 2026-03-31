@@ -1,0 +1,40 @@
+# Available runners configured by board.cmake.
+runners:
+- stm32cubeprogrammer
+- pyocd
+- jlink
+- stlink_gdbserver
+
+# Default flash runner if --runner is not given.
+flash-runner: stm32cubeprogrammer
+
+# Default debug runner if --runner is not given.
+debug-runner: pyocd
+
+# Common runner configuration values.
+config:
+  board_dir: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber
+  # Build outputs:
+  elf_file: zephyr.elf
+  hex_file: zephyr.hex
+  bin_file: zephyr.bin
+  # Host tools:
+  gdb: C:/Users/yukis/ZephyrWorkbench/Toolchains/ZephyrSDK/zephyr-sdk-1.0.1/gnu/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb-py.exe
+  openocd: C:/Users/yukis/ZephyrWorkbench/Toolchains/ZephyrSDK/zephyr-sdk-1.0.1/hosttools/openocd/bin/openocd.exe
+  openocd_search:
+    - C:/Users/yukis/ZephyrWorkbench/Toolchains/ZephyrSDK/zephyr-sdk-1.0.1/hosttools/openocd/share/openocd/scripts
+
+# Runner specific arguments
+args:
+  stm32cubeprogrammer:
+    - --port=swd
+    - --reset-mode=hw
+  pyocd:
+    - --dt-flash=y
+    - --target=stm32h563zitx
+  jlink:
+    - --dt-flash=y
+    - --device=STM32H563ZI
+    - --reset-after-load
+  stlink_gdbserver:
+    - --apid=1

@@ -1,0 +1,48 @@
+cmake:
+  application:
+    configuration-dir: 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world'
+    source-dir: 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world'
+  board:
+    name: 'xwing_dumber'
+    path:
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber'
+    qualifiers: 'stm32h563xx'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/bindings'
+    files:
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber.dts'
+    include-dirs:
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32/dts'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/common'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/vendor'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/rx'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/x86'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/xtensa'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/sparc'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/riscv'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/posix'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/arm64'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/arm'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts/arc'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/dts'
+  kconfig:
+    files:
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig'
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf'
+    user-files:
+     - 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: 'C:/Users/yukis/ZephyrWorkbench/Toolchains/ZephyrSDK/zephyr-sdk-1.0.1'
+  zephyr:
+    version: '4.4.0-rc1'
+    zephyr-base: 'C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr'
+version: '0.1.0'
+west:
+  command: 'C:\Users\yukis\.zinstaller\.venv\Scripts\west build -p always --board xwing_dumber --build-dir C:\Users\yukis\ZephyrWorkbench\ASDP4_Workspace\hello_world/build/primary'
+  topdir: 'C:\Users\yukis\ZephyrWorkbench\ASDP4_Workspace'
+  version: '1.5.0'

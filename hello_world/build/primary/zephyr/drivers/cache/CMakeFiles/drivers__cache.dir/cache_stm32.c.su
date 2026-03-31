@@ -1,0 +1,17 @@
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:53:12:cache_data_manage_range	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:26:6:cache_data_enable	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:80:5:cache_data_flush_range	8	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:85:5:cache_data_invd_range	8	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:90:5:cache_data_flush_and_invd_range	8	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:95:5:cache_data_flush_all	8	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:34:6:cache_data_disable	8	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:100:5:cache_data_invd_all	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:109:5:cache_data_flush_and_invd_all	8	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:125:6:cache_instr_enable	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:139:6:cache_instr_disable	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:156:5:cache_instr_flush_all	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:161:5:cache_instr_invd_all	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:167:5:cache_instr_flush_and_invd_all	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:172:5:cache_instr_flush_range	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:179:5:cache_instr_invd_range	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/cache/cache_stm32.c:186:5:cache_instr_flush_and_invd_range	0	static

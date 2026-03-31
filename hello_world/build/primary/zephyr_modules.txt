@@ -1,0 +1,8 @@
+"cmsis":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis":"${ZEPHYR_CMSIS_CMAKE_DIR}"
+"cmsis-dsp":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/cmsis-dsp":"${ZEPHYR_CMSIS_DSP_CMAKE_DIR}"
+"cmsis_6":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis_6":"${ZEPHYR_CMSIS_6_CMAKE_DIR}"
+"hal_stm32":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32"
+"mcuboot":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/bootloader/mcuboot":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/bootloader/mcuboot/boot/bootutil/zephyr"
+"percepio":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/debug/percepio":"${ZEPHYR_PERCEPIO_CMAKE_DIR}"
+"picolibc":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/picolibc":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/lib/picolibc"
+"segger":"C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/debug/segger":"${ZEPHYR_SEGGER_CMAKE_DIR}"
