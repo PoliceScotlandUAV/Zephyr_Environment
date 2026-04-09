@@ -5880,413 +5880,54 @@
 
 };
 # 10 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber-common.dtsi" 2
-# 1 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/arduino_r3_connector.dtsi" 1
 
-
-
-
-
-
-
-# 1 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/gpio/arduino-header-r3.h" 1 3 4
-# 9 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/arduino_r3_connector.dtsi" 2
-
-/ {
- arduino_header: connector {
-  compatible = "arduino-header-r3";
-  #gpio-cells = <2>;
-  gpio-map-mask = <0xffffffff 0xffffffc0>;
-  gpio-map-pass-thru = <0 0x3f>;
-  gpio-map = <0 0 &gpioa 6 0>,
-      <1 0 &gpioc 0 0>,
-      <2 0 &gpioc 3 0>,
-      <3 0 &gpiob 1 0>,
-      <4 0 &gpioc 2 0>,
-      <5 0 &gpiof 11 0>,
-      <6 0 &gpiob 7 0>,
-      <7 0 &gpiob 6 0>,
-      <8 0 &gpiog 14 0>,
-      <9 0 &gpioe 13 0>,
-      <10 0 &gpioe 14 0>,
-      <11 0 &gpioe 11 0>,
-      <12 0 &gpioe 9 0>,
-      <13 0 &gpiog 12 0>,
-      <14 0 &gpiof 3 0>,
-      <15 0 &gpiod 15 0>,
-      <16 0 &gpiod 14 0>,
-      <17 0 &gpiob 5 0>,
-      <18 0 &gpiog 9 0>,
-      <19 0 &gpioa 5 0>,
-      <20 0 &gpiob 9 0>,
-      <21 0 &gpiob 8 0>;
- };
-};
-
-arduino_serial: &lpuart1 {};
-
-arduino_spi: &spi1 {};
-
-arduino_i2c: &i2c1 {};
-# 11 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber-common.dtsi" 2
-# 1 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/st_morpho_connector.dtsi" 1
-
-
-
-
-
-
-# 1 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/gpio/st-morpho-header.h" 1 3 4
-# 8 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/st_morpho_connector.dtsi" 2
-
-/ {
- st_morpho_header: st-morpho-header {
-  compatible = "st-morpho-header";
-  #gpio-cells = <2>;
-  gpio-map-mask = <0xFF 0x0>;
-  gpio-map-pass-thru = <0x0 0x7F>;
-  gpio-map = <0 0 &gpioc 10 0>,
-      <1 0 &gpioc 11 0>,
-      <2 0 &gpioc 12 0>,
-      <3 0 &gpiod 2 0>,
-      <8 0 &gpiof 6 0>,
-      <10 0 &gpiof 7 0>,
-      <12 0 &gpioa 13 0>,
-      <14 0 &gpioa 14 0>,
-      <16 0 &gpioa 15 0>,
-      <20 0 &gpiob 7 0>,
-      <22 0 &gpioc 13 0>,
-      <24 0 &gpioc 14 0>,
-      <26 0 &gpioc 15 0>,
-      <27 0 &gpioa 0 0>,
-      <28 0 &gpioh 0 0>,
-      <29 0 &gpioa 1 0>,
-      <30 0 &gpioh 1 0>,
-      <31 0 &gpioa 4 0>,
-      <33 0 &gpiob 0 0>,
-      <34 0 &gpioc 2 0>,
-      <35 0 &gpioc 1 0>,
-      <36 0 &gpioc 3 0>,
-      <37 0 &gpioc 0 0>,
-      <38 0 &gpiod 4 0>,
-      <39 0 &gpiod 3 0>,
-      <40 0 &gpiod 5 0>,
-      <41 0 &gpiog 2 0>,
-      <42 0 &gpiod 6 0>,
-      <43 0 &gpiog 3 0>,
-      <44 0 &gpiod 7 0>,
-      <45 0 &gpioe 2 0>,
-      <46 0 &gpioe 3 0>,
-      <47 0 &gpioe 4 0>,
-      <49 0 &gpioe 5 0>,
-      <50 0 &gpiof 1 0>,
-      <51 0 &gpiof 2 0>,
-      <52 0 &gpiof 0 0>,
-      <53 0 &gpiof 8 0>,
-      <54 0 &gpiod 1 0>,
-      <55 0 &gpiof 9 0>,
-      <56 0 &gpiod 0 0>,
-      <57 0 &gpiog 1 0>,
-      <58 0 &gpiog 0 0>,
-      <61 0 &gpioe 6 0>,
-      <62 0 &gpiog 9 0>,
-      <63 0 &gpiog 15 0>,
-      <64 0 &gpiog 12 0>,
-      <65 0 &gpiog 10 0>,
-      <67 0 &gpiog 13 0>,
-      <68 0 &gpiod 9 0>,
-      <69 0 &gpiog 11 0>,
-      <72 0 &gpioc 9 0>,
-      <73 0 &gpioc 8 0>,
-      <74 0 &gpiob 8 0>,
-      <75 0 &gpioc 6 0>,
-      <76 0 &gpiob 9 0>,
-      <77 0 &gpioc 5 0>,
-      <81 0 &gpiod 8 0>,
-      <82 0 &gpioa 5 0>,
-      <83 0 &gpioa 12 0>,
-      <84 0 &gpioa 6 0>,
-      <85 0 &gpioa 11 0>,
-      <86 0 &gpioa 7 0>,
-      <87 0 &gpiob 12 0>,
-      <88 0 &gpiob 6 0>,
-      <90 0 &gpioc 7 0>,
-      <92 0 &gpioa 9 0>,
-      <93 0 &gpiob 2 0>,
-      <94 0 &gpioa 8 0>,
-      <95 0 &gpiob 1 0>,
-      <96 0 &gpiob 10 0>,
-      <97 0 &gpiob 15 0>,
-      <98 0 &gpiob 4 0>,
-      <99 0 &gpiob 14 0>,
-      <100 0 &gpiob 5 0>,
-      <101 0 &gpiob 13 0>,
-      <102 0 &gpiob 3 0>,
-      <104 0 &gpioa 10 0>,
-      <105 0 &gpioc 4 0>,
-      <106 0 &gpioa 2 0>,
-      <107 0 &gpiof 5 0>,
-      <108 0 &gpioa 3 0>,
-      <109 0 &gpiof 4 0>,
-      <111 0 &gpioe 8 0>,
-      <112 0 &gpiod 13 0>,
-      <113 0 &gpiof 10 0>,
-      <114 0 &gpiod 12 0>,
-      <115 0 &gpioe 7 0>,
-      <116 0 &gpiod 11 0>,
-      <117 0 &gpiod 14 0>,
-      <118 0 &gpioe 10 0>,
-      <119 0 &gpiod 15 0>,
-      <120 0 &gpioe 12 0>,
-      <121 0 &gpiof 14 0>,
-      <122 0 &gpioe 14 0>,
-      <123 0 &gpioe 9 0>,
-      <124 0 &gpioe 15 0>,
-      <126 0 &gpioe 13 0>,
-      <127 0 &gpioe 11 0>,
-      <128 0 &gpiof 13 0>,
-      <129 0 &gpiof 3 0>,
-      <130 0 &gpiof 12 0>,
-      <131 0 &gpiof 15 0>,
-      <132 0 &gpiog 14 0>,
-      <133 0 &gpiof 11 0>,
-      <135 0 &gpioe 0 0>,
-      <136 0 &gpiod 10 0>,
-      <137 0 &gpiog 8 0>,
-      <138 0 &gpiog 7 0>,
-      <139 0 &gpiog 5 0>,
-      <140 0 &gpiog 4 0>,
-      <141 0 &gpiog 6 0>;
- };
-};
-# 12 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber-common.dtsi" 2
-# 1 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h" 1 3 4
-# 13 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber-common.dtsi" 2
-
-/ {
- leds: leds {
-  compatible = "gpio-leds";
-
-  green_led_1: led_1 {
-   gpios = <&gpiob 0 (0 << 0)>;
-   label = "User LD1";
-  };
-
-  yellow_led_1: led_2 {
-   gpios = <&gpiof 4 (0 << 0)>;
-   label = "User LD2";
-  };
-
-  red_led_1: led_3 {
-   gpios = <&gpiog 4 (0 << 0)>;
-   label = "User LD3";
-  };
- };
-
- gpio_keys {
-  compatible = "gpio-keys";
-
-  user_button: button {
-   label = "User";
-   gpios = <&gpioc 13 (0 << 0)>;
-   zephyr,code = <11>;
-  };
- };
-
- pwmleds: pwmleds {
-  compatible = "pwm-leds";
-
-  status = "disabled";
-
-  pwm_led_1: green_led_1 {
-   pwms = <&pwm3 3 (((20) * 1000UL) * 1000UL) (0 << 0)>;
-   label = "green led";
-  };
- };
-};
-
-&clk_hse {
- clock-frequency = <(((8) * 1000) * 1000)>;
- hse-bypass;
+&clk_hsi {
  status = "okay";
 };
 
-&clk_hsi48 {
- status = "okay";
-};
 
-&clk_lse {
- status = "okay";
-};
 
-&pll {
- div-m = <2>;
- mul-n = <120>;
+
+&pll1 {
+ div-m = <8>;
+ mul-n = <30>;
  div-p = <2>;
  div-q = <4>;
  div-r = <2>;
- clocks = <&clk_hse>;
- status = "okay";
-};
-
-&pll2 {
- div-m = <2>;
- mul-n = <120>;
- div-p = <2>;
- div-q = <3>;
- div-r = <2>;
- clocks = <&clk_hse>;
- status = "okay";
-};
-
-&i2c1 {
- pinctrl-0 = <&i2c1_scl_pb8 &i2c1_sda_pb9>;
- pinctrl-names = "default";
- status = "okay";
-};
-
-&i3c1 {
- pinctrl-0 = <&i3c1_scl_pd12 &i3c1_sda_pd13>;
- pinctrl-names = "default";
- i3c-scl-hz = <12500000>;
+ clocks = <&clk_hsi>;
  status = "okay";
 };
 
 &rcc {
- clocks = <&pll>;
- clock-frequency = <(((240) * 1000) * 1000)>;
+ clocks = <&clk_hsi>;
+ clock-frequency = <(((64) * 1000) * 1000)>;
  ahb-prescaler = <1>;
- apb1-prescaler = <2>;
+ apb1-prescaler = <1>;
  apb2-prescaler = <1>;
- apb3-prescaler = <2>;
+ apb3-prescaler = <1>;
 };
 
-&lpuart1 {
- pinctrl-0 = <&lpuart1_tx_pb6 &lpuart1_rx_pb7>;
+&uart4 {
+ pinctrl-0 = <&uart4_tx_pa0 &uart4_rx_pa1>;
  pinctrl-names = "default";
- current-speed = <115200>;
+ current-speed = <57600>;
  status = "okay";
 };
 
 &usart3 {
- pinctrl-0 = <&usart3_tx_pd8 &usart3_rx_pd9>;
- pinctrl-names = "default";
- current-speed = <115200>;
- status = "okay";
+    pinctrl-0 = <&usart3_tx_pd8 &usart3_rx_pd9>;
+    pinctrl-names = "default";
+    current-speed = <115200>;
+    status = "okay";
 };
 
-&spi1 {
- pinctrl-0 = <&spi1_sck_pa5 &spi1_miso_pg9 &spi1_mosi_pb5>;
- pinctrl-names = "default";
- cs-gpios = <&gpiod 14 ((1 << 0) | (1 << 4))>;
- status = "okay";
-};
-
-&timers3 {
- st,prescaler = <10000>;
- status = "okay";
-
- pwm3: pwm {
-  status = "okay";
-  pinctrl-0 = <&tim3_ch3_pb0>;
-  pinctrl-names = "default";
- };
-};
-
-&rtc {
- clocks = <&rcc (0x0A8) (1 << 21)>,
-   <&rcc 0x002 ((((0xF0) & 0xFFFFU) << 0U) | (((8) & 0x1FU) << 16U) | ((((9) - (8)) & 0x3U) << 21U) | ((((1)) & 0xFFU) << 24U))>;
- status = "okay";
-};
-
-&iwdg {
- status = "okay";
-};
-
-&gpdma1 {
- status = "okay";
-};
-
-&gpdma2 {
- status = "okay";
-};
-
-&dac1 {
-
- pinctrl-0 = <&dac1_out2_pa5>;
- pinctrl-names = "default";
- status = "okay";
-};
-
-&adc1 {
- clocks = <&rcc (0x08C) (1 << 10)>,
-   <&rcc (((((0x003 + 1) + 1) + 1) + 1) + 1) ((((0xE8) & 0xFFFFU) << 0U) | (((0) & 0x1FU) << 16U) | ((((2) - (0)) & 0x3U) << 21U) | ((((0)) & 0xFFU) << 24U))>;
- clock-names = "adcx", "adc_ker";
- pinctrl-0 = <&adc1_inp3_pa6 &adc1_inp15_pa3>;
- pinctrl-names = "default";
- st,adc-clock-source = "ASYNC";
- st,adc-prescaler = <6>;
- status = "okay";
-};
-
-&fdcan1 {
- pinctrl-0 = <&fdcan1_rx_pd0 &fdcan1_tx_pd1>;
+&fdcan2 {
+ pinctrl-0 = <&fdcan2_rx_pb12 &fdcan2_tx_pb13>;
  pinctrl-names = "default";
  clocks = <&rcc (0x0A0) (1 << 9)>,
-   <&rcc (((((((((((((((0x003 + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) ((((0xE8) & 0xFFFFU) << 0U) | (((8) & 0x1FU) << 16U) | ((((9) - (8)) & 0x3U) << 21U) | ((((2)) & 0xFFU) << 24U))>;
- clk-divider = <2>;
+   <&rcc ((((((((((((0x003 + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) + 1) ((((0xE8) & 0xFFFFU) << 0U) | (((8) & 0x1FU) << 16U) | ((((9) - (8)) & 0x3U) << 21U) | ((((1)) & 0xFFU) << 24U))>;
  status = "okay";
-};
-
-&flash0 {
- partitions {
-  compatible = "fixed-partitions";
-  #address-cells = <1>;
-  #size-cells = <1>;
-
-  boot_partition: partition@0 {
-   label = "mcuboot";
-   reg = <0x00000000 ((64) * 1024)>;
-  };
-
-  slot0_partition: partition@10000 {
-   label = "image-0";
-   reg = <0x00010000 ((960) * 1024)>;
-  };
-
-  slot1_partition: partition@100000 {
-   label = "image-1";
-   reg = <0x00100000 ((960) * 1024)>;
-  };
-
-  storage_partition: partition@1f0000 {
-   label = "storage";
-   reg = <0x001f0000 ((64) * 1024)>;
-  };
- };
-};
-
-zephyr_udc0: &usb {
- pinctrl-0 = <&usb_dm_pa11 &usb_dp_pa12>;
- pinctrl-names = "default";
- status = "okay";
-};
-
-&vref {
- status = "okay";
-};
-
-&vbat {
- status = "okay";
-};
-
-&clk_lsi {
- status = "okay";
-};
-
-stm32_lp_tick_source: &lptim4 {
- clocks = <&rcc (0x0A8) (1 << 13)>,
-   <&rcc 0x003 ((((0xDC) & 0xFFFFU) << 0U) | (((20) & 0x1FU) << 16U) | ((((22) - (20)) & 0x3U) << 21U) | ((((4)) & 0xFFU) << 24U))>;
- status = "okay";
+ bus-speed = <50000>;
 };
 # 10 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber.dts" 2
 
@@ -6302,48 +5943,12 @@ stm32_lp_tick_source: &lptim4 {
   zephyr,shell-uart = &usart3;
   zephyr,sram = &sram1;
   zephyr,flash = &flash0;
-  zephyr,code-partition = &slot0_partition;
-  zephyr,canbus = &fdcan1;
- };
-
- aliases {
-  led0 = &green_led_1;
-  led1 = &yellow_led_1;
-  sw0 = &user_button;
-  watchdog0 = &iwdg;
-  pwm-led0 = &pwm_led_1;
-  volt-sensor0 = &vref;
-  volt-sensor1 = &vbat;
+  zephyr,canbus = &fdcan2;
  };
 };
 
 &rng {
  status = "okay";
-};
-
-&mac {
- status = "okay";
- pinctrl-0 = <&eth_rxd0_pc4
-       &eth_rxd1_pc5
-       &eth_ref_clk_pa1
-       &eth_crs_dv_pa7
-       &eth_tx_en_pg11
-       &eth_txd0_pg13
-       &eth_txd1_pb15>;
- pinctrl-names = "default";
- phy-connection-type = "rmii";
- phy-handle = <&eth_phy>;
-};
-
-&mdio {
- status = "okay";
- pinctrl-0 = <&eth_mdio_pa2 &eth_mdc_pc1>;
- pinctrl-names = "default";
-
- eth_phy: ethernet-phy@0 {
-  compatible = "ethernet-phy";
-  reg = <0x00>;
- };
 };
 # 0 "<command-line>" 2
 # 1 "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/misc/empty_file.c"

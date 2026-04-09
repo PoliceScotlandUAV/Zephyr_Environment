@@ -33,9 +33,4 @@ empty_file.o: \
  C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/flash_controller/xspi.h \
  C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32/dts/st/h5/stm32h563zitx-pinctrl.dtsi \
  C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl.h \
- C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl-common.h \
- C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/arduino_r3_connector.dtsi \
- C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/gpio/arduino-header-r3.h \
- C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/st_morpho_connector.dtsi \
- C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/gpio/st-morpho-header.h \
- C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h
+ C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl-common.h

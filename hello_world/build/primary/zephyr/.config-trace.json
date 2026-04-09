@@ -1,16 +1,5 @@
 [
   [
-    "CONFIG_DT_HAS_ARDUINO_HEADER_R3_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      1073
-    ]
-  ],
-  [
     "CONFIG_DT_HAS_ARM_ARMV8M_MPU_ENABLED",
     "n",
     "bool",
@@ -55,28 +44,6 @@
     ]
   ],
   [
-    "CONFIG_DT_HAS_ETHERNET_PHY_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      2933
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_FIXED_CLOCK_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      2963
-    ]
-  ],
-  [
     "CONFIG_DT_HAS_FIXED_LAYOUT_ENABLED",
     "n",
     "bool",
@@ -85,39 +52,6 @@
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
       2973
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_FIXED_PARTITIONS_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      2978
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_GPIO_KEYS_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      3253
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_GPIO_LEDS_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      3258
     ]
   ],
   [
@@ -140,39 +74,6 @@
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
       12438
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_ADC_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      12843
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_DAC_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      12913
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_ETHERNET_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      12968
     ]
   ],
   [
@@ -231,83 +132,6 @@
     ]
   ],
   [
-    "CONFIG_DT_HAS_ST_STM32_HSE_CLOCK_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13023
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_I2C_V2_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13043
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_I3C_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13053
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_LPTIM_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13073
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_LPUART_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13078
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_LSE_CLOCK_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13083
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_MDIO_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13093
-    ]
-  ],
-  [
     "CONFIG_DT_HAS_ST_STM32_NV_FLASH_ENABLED",
     "n",
     "bool",
@@ -341,17 +165,6 @@
     ]
   ],
   [
-    "CONFIG_DT_HAS_ST_STM32_PWM_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13168
-    ]
-  ],
-  [
     "CONFIG_DT_HAS_ST_STM32_RCC_RCTL_ENABLED",
     "n",
     "bool",
@@ -371,50 +184,6 @@
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
       13208
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_RTC_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13218
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_SPI_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13243
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_SPI_FIFO_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13248
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_TIMERS_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13273
     ]
   ],
   [
@@ -440,50 +209,6 @@
     ]
   ],
   [
-    "CONFIG_DT_HAS_ST_STM32_USB_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13298
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_VBAT_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13308
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_VREF_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13318
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32_WATCHDOG_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13328
-    ]
-  ],
-  [
     "CONFIG_DT_HAS_ST_STM32G0_EXTI_ENABLED",
     "n",
     "bool",
@@ -492,17 +217,6 @@
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
       13478
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32H5_ETHERNET_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13518
     ]
   ],
   [
@@ -528,25 +242,14 @@
     ]
   ],
   [
-    "CONFIG_DT_HAS_ST_STM32H7_ETHERNET_ENABLED",
+    "CONFIG_DT_HAS_ST_STM32H7_HSI_CLOCK_ENABLED",
     "n",
     "bool",
     "y",
     "default",
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13543
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_STM32H7_SPI_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13588
+      13563
     ]
   ],
   [
@@ -561,17 +264,6 @@
     ]
   ],
   [
-    "CONFIG_DT_HAS_ST_STM32U5_DMA_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13748
-    ]
-  ],
-  [
     "CONFIG_DT_HAS_ST_STM32U5_PLL_CLOCK_ENABLED",
     "n",
     "bool",
@@ -580,17 +272,6 @@
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
       13768
-    ]
-  ],
-  [
-    "CONFIG_DT_HAS_ST_MORPHO_HEADER_ENABLED",
-    "n",
-    "bool",
-    "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/Kconfig/Kconfig.dts",
-      13913
     ]
   ],
   [
@@ -630,55 +311,67 @@
     "CONFIG_INPUT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      35
+    ]
   ],
   [
     "CONFIG_WIFI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      36
+    ]
   ],
   [
     "CONFIG_MAIN_STACK_SIZE",
     "y",
     "int",
     "1024",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      164
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      37
     ]
   ],
   [
     "CONFIG_REGULATOR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      38
+    ]
   ],
   [
     "CONFIG_SYSTEM_WORKQUEUE_STACK_SIZE",
     "y",
     "int",
     "1024",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      607
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      39
     ]
   ],
   [
     "CONFIG_FPU",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      40
+    ]
   ],
   [
     "CONFIG_SERIAL",
@@ -687,57 +380,75 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig",
-      3
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      41
     ]
   ],
   [
     "CONFIG_SPI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      42
+    ]
   ],
   [
     "CONFIG_MIPI_DSI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      43
+    ]
   ],
   [
     "CONFIG_MEMC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      44
+    ]
   ],
   [
     "CONFIG_MODEM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      45
+    ]
   ],
   [
     "CONFIG_UART_INTERRUPT_DRIVEN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      46
+    ]
   ],
   [
     "CONFIG_GPIO_HOGS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      47
+    ]
   ],
   [
     "CONFIG_BOARD",
@@ -754,7 +465,7 @@
     "CONFIG_NUM_IRQS",
     "n",
     "int",
-    "129",
+    "115",
     "default",
     [
       "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
@@ -766,10 +477,10 @@
     "y",
     "int",
     "240000000",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
-      70
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      50
     ]
   ],
   [
@@ -777,10 +488,10 @@
     "y",
     "int",
     "2048",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      261
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      51
     ]
   ],
   [
@@ -788,10 +499,10 @@
     "y",
     "hex",
     "0x8000000",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
-      114
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      52
     ]
   ],
   [
@@ -799,29 +510,32 @@
     "y",
     "int",
     "1",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig.smp",
-      43
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      53
     ]
   ],
   [
     "CONFIG_SOC_RESET_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      54
+    ]
   ],
   [
     "CONFIG_CACHE_MANAGEMENT",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32\\stm32h5x\\Kconfig.defconfig",
-      21
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      55
     ]
   ],
   [
@@ -829,10 +543,10 @@
     "y",
     "int",
     "16",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32\\stm32h5x\\Kconfig.defconfig",
-      18
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      56
     ]
   ],
   [
@@ -840,10 +554,10 @@
     "y",
     "int",
     "16",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32\\stm32h5x\\Kconfig.defconfig",
-      12
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      57
     ]
   ],
   [
@@ -851,10 +565,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
-      18
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      58
     ]
   ],
   [
@@ -862,10 +576,10 @@
     "y",
     "int",
     "320",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      178
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      59
     ]
   ],
   [
@@ -873,10 +587,10 @@
     "y",
     "int",
     "2048",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      188
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      60
     ]
   ],
   [
@@ -884,10 +598,10 @@
     "y",
     "int",
     "10000",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      829
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      61
     ]
   ],
   [
@@ -895,10 +609,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      828
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      62
     ]
   ],
   [
@@ -906,10 +620,10 @@
     "y",
     "hex",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      160
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      63
     ]
   ],
   [
@@ -917,10 +631,10 @@
     "y",
     "string",
     "__start",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      232
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      64
     ]
   ],
   [
@@ -928,9 +642,10 @@
     "y",
     "bool",
     "y",
-    "imply",
+    "assign",
     [
-      "CPU_CORTEX_M && ARM"
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      65
     ]
   ],
   [
@@ -947,9 +662,12 @@
     "CONFIG_COUNTER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      67
+    ]
   ],
   [
     "CONFIG_ICACHE",
@@ -966,17 +684,23 @@
     "CONFIG_SRAM_VECTOR_TABLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      69
+    ]
   ],
   [
     "CONFIG_SHARED_INTERRUPTS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      70
+    ]
   ],
   [
     "CONFIG_CPU_HAS_ARM_MPU",
@@ -992,9 +716,12 @@
     "CONFIG_PM_DEVICE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      72
+    ]
   ],
   [
     "CONFIG_DCACHE",
@@ -1011,27 +738,33 @@
     "CONFIG_OTP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      74
+    ]
   ],
   [
     "CONFIG_NVMEM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      75
+    ]
   ],
   [
     "CONFIG_TICKLESS_KERNEL",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      1090
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      76
     ]
   ],
   [
@@ -1039,10 +772,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\timer\\Kconfig.cortex_m_systick",
-      9
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      77
     ]
   ],
   [
@@ -1050,10 +783,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
-      15
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      78
     ]
   ],
   [
@@ -1061,83 +794,98 @@
     "y",
     "int",
     "1",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
-      101
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      79
     ]
   ],
   [
     "CONFIG_USE_DT_CODE_PARTITION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      80
+    ]
   ],
   [
     "CONFIG_STM32_BACKUP_PROTECTION",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32/Kconfig.defconfig",
-      136
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      81
     ]
   ],
   [
     "CONFIG_MULTI_LEVEL_INTERRUPTS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      82
+    ]
   ],
   [
     "CONFIG_PM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      83
+    ]
   ],
   [
     "CONFIG_ZERO_LATENCY_IRQS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      84
+    ]
   ],
   [
     "CONFIG_NUM_METAIRQ_PRIORITIES",
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      97
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      85
     ]
   ],
   [
     "CONFIG_POWER_DOMAIN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      86
+    ]
   ],
   [
     "CONFIG_NUM_PREEMPT_PRIORITIES",
     "y",
     "int",
     "15",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      55
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      87
     ]
   ],
   [
@@ -1155,48 +903,54 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      539
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      89
     ]
   ],
   [
     "CONFIG_DYNAMIC_INTERRUPTS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      90
+    ]
   ],
   [
     "CONFIG_GEN_ISR_TABLES",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core\\cortex_m/Kconfig",
-      326
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      91
     ]
   ],
   [
     "CONFIG_INIT_STACKS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      92
+    ]
   ],
   [
     "CONFIG_TIMESLICE_SIZE",
     "y",
     "int",
     "20",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      689
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      93
     ]
   ],
   [
@@ -1204,10 +958,10 @@
     "y",
     "hex",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      132
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      94
     ]
   ],
   [
@@ -1215,59 +969,77 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      865
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      95
     ]
   ],
   [
     "CONFIG_INIT_ARCH_HW_AT_BOOT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      96
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_S19",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      97
+    ]
   ],
   [
     "CONFIG_ROMSTART_RELOCATION_ROM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      98
+    ]
   ],
   [
     "CONFIG_FLASH",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      99
+    ]
   ],
   [
     "CONFIG_CODE_DATA_RELOCATION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      100
+    ]
   ],
   [
     "CONFIG_CPU_HAS_CUSTOM_FIXED_SOC_MPU_REGIONS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      101
+    ]
   ],
   [
     "CONFIG_HW_STACK_PROTECTION",
@@ -1276,8 +1048,8 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig",
-      13
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      102
     ]
   ],
   [
@@ -1287,60 +1059,75 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig",
-      16
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      103
     ]
   ],
   [
     "CONFIG_SYSTEM_CLOCK_HW_CYCLES_PER_SEC_RUNTIME_UPDATE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      104
+    ]
   ],
   [
     "CONFIG_MFD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      105
+    ]
   ],
   [
     "CONFIG_CODE_DATA_RELOCATION_SRAM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      106
+    ]
   ],
   [
     "CONFIG_CACHE",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\cache\\Kconfig",
-      6
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      107
     ]
   ],
   [
     "CONFIG_LOG",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      108
+    ]
   ],
   [
     "CONFIG_PM_CPU_OPS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      109
+    ]
   ],
   [
     "CONFIG_RESET",
@@ -1357,46 +1144,55 @@
     "y",
     "int",
     "4",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      597
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      111
     ]
   ],
   [
     "CONFIG_ASSERT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      112
+    ]
   ],
   [
     "CONFIG_DEVICE_DEPS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      113
+    ]
   ],
   [
     "CONFIG_UART_USE_RUNTIME_CONFIGURE",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\serial\\Kconfig",
-      53
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      114
     ]
   ],
   [
     "CONFIG_SYSCON",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      115
+    ]
   ],
   [
     "CONFIG_SOC_EARLY_INIT_HOOK",
@@ -1415,27 +1211,30 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig",
-      6
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      117
     ]
   ],
   [
     "CONFIG_WINSTREAM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      118
+    ]
   ],
   [
     "CONFIG_COMMON_LIBC_MALLOC_ARENA_SIZE",
     "y",
     "int",
     "-1",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\common\\Kconfig",
-      64
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      119
     ]
   ],
   [
@@ -1443,19 +1242,22 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      586
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      120
     ]
   ],
   [
     "CONFIG_REBOOT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      121
+    ]
   ],
   [
     "CONFIG_GEN_IRQ_START_VECTOR",
@@ -1484,10 +1286,10 @@
     "y",
     "int",
     "4",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      551
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      124
     ]
   ],
   [
@@ -1505,27 +1307,33 @@
     "CONFIG_BOOTLOADER_MCUBOOT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      126
+    ]
   ],
   [
     "CONFIG_SCHED_CPU_MASK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      127
+    ]
   ],
   [
     "CONFIG_KERNEL_MEM_POOL",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      771
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      128
     ]
   ],
   [
@@ -1533,10 +1341,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      14
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      129
     ]
   ],
   [
@@ -1546,44 +1354,53 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      15
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      130
     ]
   ],
   [
     "CONFIG_OUTPUT_DISASSEMBLE_ALL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      131
+    ]
   ],
   [
     "CONFIG_LINKER_USE_RELAX",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      344
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      132
     ]
   ],
   [
     "CONFIG_WATCHDOG",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      133
+    ]
   ],
   [
     "CONFIG_BUILD_ONLY_NO_BLOBS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      138
+    ]
   ],
   [
     "CONFIG_ZEPHYR_CMSIS_MODULE",
@@ -1622,9 +1439,12 @@
     "CONFIG_CMSIS_DSP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      155
+    ]
   ],
   [
     "CONFIG_ZEPHYR_CMSIS_6_MODULE",
@@ -1651,9 +1471,12 @@
     "CONFIG_CMSIS_M_CHECK_DEVICE_DEFINES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      163
+    ]
   ],
   [
     "CONFIG_ZEPHYR_HAL_STM32_MODULE",
@@ -1681,9 +1504,12 @@
     "CONFIG_PERCEPIO_DFM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      176
+    ]
   ],
   [
     "CONFIG_ZEPHYR_PERCEPIO_MODULE",
@@ -1700,9 +1526,12 @@
     "CONFIG_PICOLIBC_MODULE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      183
+    ]
   ],
   [
     "CONFIG_ZEPHYR_PICOLIBC_MODULE",
@@ -1740,41 +1569,56 @@
     "CONFIG_USE_SEGGER_RTT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      192
+    ]
   ],
   [
     "CONFIG_LVGL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      195
+    ]
   ],
   [
     "CONFIG_HAS_MEC_HAL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      196
+    ]
   ],
   [
     "CONFIG_HAS_MPFS_HAL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      197
+    ]
   ],
   [
     "CONFIG_HAS_MEC5_HAL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      198
+    ]
   ],
   [
     "CONFIG_HAS_STM32CUBE",
@@ -1800,41 +1644,56 @@
     "CONFIG_MIPI_SYST_LIB",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      201
+    ]
   ],
   [
     "CONFIG_HAS_TELINK_DRIVERS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      202
+    ]
   ],
   [
     "CONFIG_MCUBOOT_BOOTUTIL_LIB",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      203
+    ]
   ],
   [
     "CONFIG_WIFI_NM_WPA_SUPPLICANT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      204
+    ]
   ],
   [
     "CONFIG_ACPI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      289
+    ]
   ],
   [
     "CONFIG_BOARD_REVISION",
@@ -1862,9 +1721,12 @@
     "CONFIG_NET_DRIVERS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      294
+    ]
   ],
   [
     "CONFIG_BOARD_XWING_DUMBER",
@@ -1966,59 +1828,77 @@
     "CONFIG_SOC_RTL8752HJL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      313
+    ]
   ],
   [
     "CONFIG_SOC_RTL8752HMF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      314
+    ]
   ],
   [
     "CONFIG_SOC_RTL8752HKF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      315
+    ]
   ],
   [
     "CONFIG_SOC_RTL8752HJF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      316
+    ]
   ],
   [
     "CONFIG_HWINFO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      317
+    ]
   ],
   [
     "CONFIG_STM32_ENABLE_DEBUG_SLEEP_STOP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      318
+    ]
   ],
   [
     "CONFIG_SWJ_ANALOG_PRIORITY",
     "y",
     "int",
     "49",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32\\common\\Kconfig",
-      37
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      319
     ]
   ],
   [
@@ -2026,37 +1906,43 @@
     "y",
     "int",
     "50",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32\\common\\Kconfig",
-      64
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      320
     ]
   ],
   [
     "CONFIG_STM32_XSPIM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      321
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_INFO_HEADER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      322
+    ]
   ],
   [
     "CONFIG_GPIO_INIT_PRIORITY",
     "y",
     "int",
     "40",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\gpio\\Kconfig",
-      50
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      323
     ]
   ],
   [
@@ -2074,9 +1960,12 @@
     "CONFIG_EXTRA_EXCEPTION_INFO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      327
+    ]
   ],
   [
     "CONFIG_ARCH_HAS_SINGLE_THREAD_SUPPORT",
@@ -2113,9 +2002,12 @@
     "CONFIG_MPU_ALLOW_FLASH_WRITE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      331
+    ]
   ],
   [
     "CONFIG_CPU_CORTEX_M",
@@ -2131,9 +2023,12 @@
     "CONFIG_ARM_ZIMAGE_HEADER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      337
+    ]
   ],
   [
     "CONFIG_ISA_THUMB2",
@@ -2161,10 +2056,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core/Kconfig",
-      143
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      340
     ]
   ],
   [
@@ -2172,37 +2067,43 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core/Kconfig",
-      161
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      341
     ]
   ],
   [
     "CONFIG_RUNTIME_NMI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      342
+    ]
   ],
   [
     "CONFIG_PLATFORM_SPECIFIC_INIT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      343
+    ]
   ],
   [
     "CONFIG_FAULT_DUMP",
     "y",
     "int",
     "2",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core/Kconfig",
-      205
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      344
     ]
   ],
   [
@@ -2210,9 +2111,10 @@
     "y",
     "bool",
     "y",
-    "imply",
+    "assign",
     [
-      "ARM_STACK_PROTECTION && CPU_CORTEX_M_HAS_SPLIM && ARM"
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      345
     ]
   ],
   [
@@ -2231,10 +2133,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core/Kconfig",
-      331
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      347
     ]
   ],
   [
@@ -2242,11 +2144,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core/Kconfig",
-      339
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_FP16_ALT",
@@ -2391,44 +2290,53 @@
     "CONFIG_SW_VECTOR_RELAY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      367
+    ]
   ],
   [
     "CONFIG_CORTEX_M_DWT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      368
+    ]
   ],
   [
     "CONFIG_CORTEX_M_DEBUG_MONITOR_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      369
+    ]
   ],
   [
     "CONFIG_TRAP_UNALIGNED_ACCESS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      370
+    ]
   ],
   [
     "CONFIG_NULL_POINTER_EXCEPTION_DETECTION_NONE",
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core\\cortex_m/Kconfig",
-      420
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_NULL_POINTER_EXCEPTION_DETECTION_DWT",
@@ -2450,9 +2358,12 @@
     "CONFIG_ARM_GCC_FP_WORKAROUND",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      376
+    ]
   ],
   [
     "CONFIG_ARM_TRUSTZONE_M",
@@ -2468,44 +2379,56 @@
     "CONFIG_MPU_STACK_GUARD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      378
+    ]
   ],
   [
     "CONFIG_MPU_DISABLE_BACKGROUND_MAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      379
+    ]
   ],
   [
     "CONFIG_CUSTOM_SECTION_ALIGN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      380
+    ]
   ],
   [
     "CONFIG_CUSTOM_SECTION_MIN_ALIGN_SIZE",
     "y",
     "int",
     "32",
-    "default",
+    "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/arch/arm\\core\\mpu/Kconfig",
-      65
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      381
     ]
   ],
   [
     "CONFIG_ARM_MPU_SRAM_WRITE_THROUGH",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      382
+    ]
   ],
   [
     "CONFIG_CPU_HAS_ARM_SAU",
@@ -2551,9 +2474,12 @@
     "CONFIG_SEMIHOST",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      393
+    ]
   ],
   [
     "CONFIG_ARCH_SUPPORTS_ROM_OFFSET",
@@ -2570,9 +2496,12 @@
     "CONFIG_EXCEPTION_DUMP_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      395
+    ]
   ],
   [
     "CONFIG_ARM_MPU",
@@ -2581,8 +2510,8 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig",
-      10
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      396
     ]
   ],
   [
@@ -2601,10 +2530,10 @@
     "y",
     "int",
     "256",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      230
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      398
     ]
   ],
   [
@@ -2612,43 +2541,55 @@
     "y",
     "hex",
     "0x20000000",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      238
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      399
     ]
   ],
   [
     "CONFIG_TRUSTED_EXECUTION_SECURE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      400
+    ]
   ],
   [
     "CONFIG_TRUSTED_EXECUTION_NONSECURE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      401
+    ]
   ],
   [
     "CONFIG_USERSPACE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      402
+    ]
   ],
   [
     "CONFIG_NOINIT_SNIPPET_FIRST",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      403
+    ]
   ],
   [
     "CONFIG_GEN_PRIV_STACKS",
@@ -2664,35 +2605,44 @@
     "CONFIG_STACK_GROWS_UP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      405
+    ]
   ],
   [
     "CONFIG_FRAME_POINTER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      406
+    ]
   ],
   [
     "CONFIG_ISR_TABLES_LOCAL_DECLARATION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      411
+    ]
   ],
   [
     "CONFIG_ARCH_DEVICE_STATE_ALIGN",
     "y",
     "int",
     "4",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      561
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      412
     ]
   ],
   [
@@ -2700,11 +2650,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      569
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_IRQ_VECTOR_TABLE_JUMP_BY_CODE",
@@ -2718,28 +2665,34 @@
     "CONFIG_SRAM_SW_ISR_TABLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      415
+    ]
   ],
   [
     "CONFIG_EXCEPTION_DEBUG",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      652
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      416
     ]
   ],
   [
     "CONFIG_SIMPLIFIED_EXCEPTION_CODES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      417
+    ]
   ],
   [
     "CONFIG_ARCH_HAS_TIMING_FUNCTIONS",
@@ -2976,10 +2929,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\arch\\Kconfig",
-      962
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      444
     ]
   ],
   [
@@ -2996,25 +2949,34 @@
     "CONFIG_CACHE_DOUBLEMAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      460
+    ]
   ],
   [
     "CONFIG_DCACHE_LINE_SIZE_DETECT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      461
+    ]
   ],
   [
     "CONFIG_ICACHE_LINE_SIZE_DETECT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      462
+    ]
   ],
   [
     "CONFIG_ARCH_CACHE",
@@ -3029,11 +2991,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/soc/st/stm32\\stm32h5x\\Kconfig.defconfig",
-      24
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_TOOLCHAIN_HAS_BUILTIN_FFS",
@@ -3061,10 +3020,10 @@
     "y",
     "int",
     "16",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      30
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      473
     ]
   ],
   [
@@ -3072,10 +3031,10 @@
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      73
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      474
     ]
   ],
   [
@@ -3105,19 +3064,22 @@
     "y",
     "int",
     "-128",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      86
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      477
     ]
   ],
   [
     "CONFIG_SCHED_DEADLINE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      478
+    ]
   ],
   [
     "CONFIG_THREAD_STACK_INFO",
@@ -3134,28 +3096,31 @@
     "CONFIG_THREAD_CUSTOM_DATA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      480
+    ]
   ],
   [
     "CONFIG_DYNAMIC_THREAD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      481
+    ]
   ],
   [
     "CONFIG_SCHED_SIMPLE",
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      305
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_SCHED_SCALABLE",
@@ -3186,11 +3151,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      358
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_LIBC_ERRNO",
@@ -3207,10 +3169,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      395
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      492
     ]
   ],
   [
@@ -3218,29 +3180,32 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      419
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      493
     ]
   ],
   [
     "CONFIG_NONZERO_SPINLOCK_SIZE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      494
+    ]
   ],
   [
     "CONFIG_BOOT_BANNER",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      455
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      500
     ]
   ],
   [
@@ -3248,10 +3213,10 @@
     "y",
     "string",
     "Booting Zephyr OS build",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      464
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      501
     ]
   ],
   [
@@ -3259,19 +3224,22 @@
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      471
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      502
     ]
   ],
   [
     "CONFIG_BOOT_CLEAR_SCREEN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      503
+    ]
   ],
   [
     "CONFIG_THREAD_MONITOR",
@@ -3298,72 +3266,87 @@
     "y",
     "int",
     "32",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      502
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      506
     ]
   ],
   [
     "CONFIG_THREAD_RUNTIME_STATS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      507
+    ]
   ],
   [
     "CONFIG_THREAD_RUNTIME_STACK_SAFETY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      508
+    ]
   ],
   [
     "CONFIG_OBJ_CORE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      511
+    ]
   ],
   [
     "CONFIG_WORKQUEUE_WORK_TIMEOUT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      512
+    ]
   ],
   [
     "CONFIG_SYSTEM_WORKQUEUE_PRIORITY",
     "y",
     "int",
     "-1",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      613
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      517
     ]
   ],
   [
     "CONFIG_SYSTEM_WORKQUEUE_NO_YIELD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      518
+    ]
   ],
   [
     "CONFIG_SYSTEM_WORKQUEUE_WORK_TIMEOUT_MS",
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      631
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      519
     ]
   ],
   [
@@ -3391,10 +3374,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      681
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      537
     ]
   ],
   [
@@ -3402,89 +3385,110 @@
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      700
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      538
     ]
   ],
   [
     "CONFIG_TIMESLICE_PER_THREAD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      539
+    ]
   ],
   [
     "CONFIG_TIMER_OBSERVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      540
+    ]
   ],
   [
     "CONFIG_POLL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      546
+    ]
   ],
   [
     "CONFIG_MEM_SLAB_POINTER_VALIDATE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      547
+    ]
   ],
   [
     "CONFIG_MEM_SLAB_TRACE_MAX_UTILIZATION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      548
+    ]
   ],
   [
     "CONFIG_NUM_MBOX_ASYNC_MSGS",
     "y",
     "int",
     "10",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      749
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      549
     ]
   ],
   [
     "CONFIG_EVENTS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      550
+    ]
   ],
   [
     "CONFIG_HEAP_MEM_POOL_SIZE",
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      781
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      551
     ]
   ],
   [
     "CONFIG_HEAP_MEM_POOL_IGNORE_MIN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      552
+    ]
   ],
   [
     "CONFIG_SWAP_NONATOMIC",
@@ -3501,10 +3505,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      875
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      556
     ]
   ],
   [
@@ -3512,10 +3516,10 @@
     "y",
     "int",
     "365",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig",
-      886
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      557
     ]
   ],
   [
@@ -3543,9 +3547,12 @@
     "CONFIG_USE_SWITCH",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      574
+    ]
   ],
   [
     "CONFIG_USE_SWITCH_SUPPORTED",
@@ -3561,9 +3568,12 @@
     "CONFIG_TICKET_SPINLOCKS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      576
+    ]
   ],
   [
     "CONFIG_TOOLCHAIN_SUPPORTS_THREAD_LOCAL_STORAGE",
@@ -3600,51 +3610,66 @@
     "CONFIG_STATIC_INIT_GNU",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      582
+    ]
   ],
   [
     "CONFIG_BOOTARGS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      583
+    ]
   ],
   [
     "CONFIG_DEVICE_MUTABLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      589
+    ]
   ],
   [
     "CONFIG_DEVICE_DT_METADATA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      590
+    ]
   ],
   [
     "CONFIG_DEVICE_DEINIT_SUPPORT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      591
+    ]
   ],
   [
     "CONFIG_KERNEL_INIT_PRIORITY_OBJECTS",
     "y",
     "int",
     "30",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig.device",
-      50
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      597
     ]
   ],
   [
@@ -3652,10 +3677,10 @@
     "y",
     "int",
     "35",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig.device",
-      58
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      598
     ]
   ],
   [
@@ -3663,10 +3688,10 @@
     "y",
     "int",
     "40",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig.device",
-      66
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      599
     ]
   ],
   [
@@ -3674,10 +3699,10 @@
     "y",
     "int",
     "50",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig.device",
-      72
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      600
     ]
   ],
   [
@@ -3685,99 +3710,132 @@
     "y",
     "int",
     "90",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\kernel\\Kconfig.device",
-      80
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      601
     ]
   ],
   [
     "CONFIG_SOC_EARLY_RESET_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      617
+    ]
   ],
   [
     "CONFIG_SOC_PREP_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      618
+    ]
   ],
   [
     "CONFIG_SOC_LATE_INIT_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      619
+    ]
   ],
   [
     "CONFIG_SOC_PER_CORE_INIT_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      620
+    ]
   ],
   [
     "CONFIG_BOARD_EARLY_INIT_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      621
+    ]
   ],
   [
     "CONFIG_BOARD_LATE_INIT_HOOK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      622
+    ]
   ],
   [
     "CONFIG_ADC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      628
+    ]
   ],
   [
     "CONFIG_AUDIO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      629
+    ]
   ],
   [
     "CONFIG_AUXDISPLAY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      630
+    ]
   ],
   [
     "CONFIG_BBRAM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      631
+    ]
   ],
   [
     "CONFIG_BIOMETRICS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      632
+    ]
   ],
   [
     "CONFIG_CACHE_HAS_DRIVER",
@@ -3793,65 +3851,66 @@
     "CONFIG_CACHE_NRF_PATCH_LINEADDR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      638
+    ]
   ],
   [
     "CONFIG_CACHE_STM32_ICACHE_DIRECT_MAPPING",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\cache\\Kconfig.stm32",
-      18
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      639
     ]
   ],
   [
     "CONFIG_CAN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      640
+    ]
   ],
   [
     "CONFIG_CHARGER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      641
+    ]
   ],
   [
     "CONFIG_CLOCK_CONTROL_FIXED_RATE_CLOCK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      642
+    ]
   ],
   [
     "CONFIG_CLOCK_CONTROL_STM32_CUBE",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\clock_control\\Kconfig.stm32",
-      11
-    ]
-  ],
-  [
-    "CONFIG_CLOCK_STM32_HSE_CLOCK",
-    "n",
-    "int",
-    "8000000",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\clock_control\\Kconfig.stm32",
-      27
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      643
     ]
   ],
   [
@@ -3859,29 +3918,32 @@
     "y",
     "int",
     "40",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\clock_control\\Kconfig.tisci",
-      13
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      644
     ]
   ],
   [
     "CONFIG_COMPARATOR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      645
+    ]
   ],
   [
     "CONFIG_CONSOLE_INPUT_MAX_LINE_LEN",
     "y",
     "int",
     "128",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\console\\Kconfig",
-      16
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      646
     ]
   ],
   [
@@ -3898,19 +3960,22 @@
     "CONFIG_CONSOLE_HANDLER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      648
+    ]
   ],
   [
     "CONFIG_CONSOLE_INIT_PRIORITY",
     "y",
     "int",
     "60",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\console\\Kconfig",
-      37
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      649
     ]
   ],
   [
@@ -3920,302 +3985,404 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/boards/st/xwing_dumber/xwing_dumber_defconfig",
-      7
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      650
     ]
   ],
   [
     "CONFIG_UART_CONSOLE_DEBUG_SERVER_HOOKS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      651
+    ]
   ],
   [
     "CONFIG_UART_CONSOLE_MCUMGR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      652
+    ]
   ],
   [
     "CONFIG_RAM_CONSOLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      653
+    ]
   ],
   [
     "CONFIG_IPM_CONSOLE_SENDER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      654
+    ]
   ],
   [
     "CONFIG_IPM_CONSOLE_RECEIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      655
+    ]
   ],
   [
     "CONFIG_UART_MCUMGR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      656
+    ]
   ],
   [
     "CONFIG_EFI_CONSOLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      657
+    ]
   ],
   [
     "CONFIG_COREDUMP_DEVICE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      658
+    ]
   ],
   [
     "CONFIG_CRC_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      659
+    ]
   ],
   [
     "CONFIG_CRYPTO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      660
+    ]
   ],
   [
     "CONFIG_DAC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      661
+    ]
   ],
   [
     "CONFIG_DAI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      662
+    ]
   ],
   [
     "CONFIG_DEBUG_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      663
+    ]
   ],
   [
     "CONFIG_DISK_DRIVERS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      664
+    ]
   ],
   [
     "CONFIG_DISPLAY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      665
+    ]
   ],
   [
     "CONFIG_DMA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      666
+    ]
   ],
   [
     "CONFIG_DP_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      667
+    ]
   ],
   [
     "CONFIG_EDAC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      668
+    ]
   ],
   [
     "CONFIG_EEPROM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      669
+    ]
   ],
   [
     "CONFIG_ENTROPY_GENERATOR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      670
+    ]
   ],
   [
     "CONFIG_ESPI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      671
+    ]
   ],
   [
     "CONFIG_MDIO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      672
+    ]
   ],
   [
     "CONFIG_ARM_SCMI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      677
+    ]
   ],
   [
     "CONFIG_FPGA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      680
+    ]
   ],
   [
     "CONFIG_FUEL_GAUGE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      681
+    ]
   ],
   [
     "CONFIG_GNSS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      682
+    ]
   ],
   [
     "CONFIG_GPIO_GET_DIRECTION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      683
+    ]
   ],
   [
     "CONFIG_GPIO_GET_CONFIG",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      684
+    ]
   ],
   [
     "CONFIG_GPIO_ENABLE_DISABLE_INTERRUPT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      685
+    ]
   ],
   [
     "CONFIG_GPIO_STM32",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\gpio\\Kconfig.stm32",
-      9
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      686
     ]
   ],
   [
     "CONFIG_HAPTICS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      687
+    ]
   ],
   [
     "CONFIG_HWSPINLOCK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      688
+    ]
   ],
   [
     "CONFIG_I2C",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      689
+    ]
   ],
   [
     "CONFIG_I2S",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      690
+    ]
   ],
   [
     "CONFIG_I3C",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      691
+    ]
   ],
   [
     "CONFIG_INTC_INIT_PRIORITY",
     "y",
     "int",
     "40",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\interrupt_controller\\Kconfig",
-      45
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      696
     ]
   ],
   [
@@ -4223,10 +4390,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\interrupt_controller\\Kconfig.stm32",
-      11
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      697
     ]
   ],
   [
@@ -4234,115 +4401,154 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\interrupt_controller\\Kconfig.stm32",
-      18
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      698
     ]
   ],
   [
     "CONFIG_IPM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      701
+    ]
   ],
   [
     "CONFIG_LED",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      702
+    ]
   ],
   [
     "CONFIG_LED_STRIP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      703
+    ]
   ],
   [
     "CONFIG_LORA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      704
+    ]
   ],
   [
     "CONFIG_MBOX",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      705
+    ]
   ],
   [
     "CONFIG_MIPI_DBI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      706
+    ]
   ],
   [
     "CONFIG_TIMEAWARE_GPIO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      717
+    ]
   ],
   [
     "CONFIG_MM_DRV",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      720
+    ]
   ],
   [
     "CONFIG_MSPI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      721
+    ]
   ],
   [
     "CONFIG_OPAMP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      722
+    ]
   ],
   [
     "CONFIG_PCIE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      723
+    ]
   ],
   [
     "CONFIG_PCIE_ENDPOINT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      724
+    ]
   ],
   [
     "CONFIG_PECI",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      725
+    ]
   ],
   [
     "CONFIG_PINCTRL",
@@ -4358,43 +4564,55 @@
     "CONFIG_PINCTRL_DYNAMIC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      727
+    ]
   ],
   [
     "CONFIG_PINCTRL_KEEP_SLEEP_STATE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      728
+    ]
   ],
   [
     "CONFIG_PINCTRL_MCHP_COMMON",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      729
+    ]
   ],
   [
     "CONFIG_PINCTRL_NPCX_EX",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      730
+    ]
   ],
   [
     "CONFIG_PINCTRL_STM32",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\pinctrl\\Kconfig.stm32",
-      6
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      731
     ]
   ],
   [
@@ -4402,53 +4620,65 @@
     "y",
     "int",
     "2",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\pinctrl\\Kconfig.stm32",
-      13
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      732
     ]
   ],
   [
     "CONFIG_PS2",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      733
+    ]
   ],
   [
     "CONFIG_PSI5",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      734
+    ]
   ],
   [
     "CONFIG_PTP_CLOCK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      735
+    ]
   ],
   [
     "CONFIG_PWM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      736
+    ]
   ],
   [
     "CONFIG_RESET_INIT_PRIORITY",
     "y",
     "int",
     "35",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\reset\\Kconfig",
-      21
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      737
     ]
   ],
   [
@@ -4456,51 +4686,66 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\reset\\Kconfig.stm32",
-      6
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      742
     ]
   ],
   [
     "CONFIG_RETAINED_MEM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      743
+    ]
   ],
   [
     "CONFIG_RTC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      744
+    ]
   ],
   [
     "CONFIG_SDHC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      745
+    ]
   ],
   [
     "CONFIG_SENSOR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      746
+    ]
   ],
   [
     "CONFIG_SENT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      747
+    ]
   ],
   [
     "CONFIG_SERIAL_HAS_DRIVER",
@@ -4510,16 +4755,6 @@
     "select",
     [
       "UART_STM32 && DT_HAS_ST_STM32_UART_ENABLED && SERIAL"
-    ]
-  ],
-  [
-    "CONFIG_SERIAL_SUPPORT_ASYNC",
-    "n",
-    "bool",
-    "y",
-    "select",
-    [
-      "UART_STM32 && (DT_HAS_ST_STM32_DMA_V1_ENABLED || DT_HAS_ST_STM32_DMA_V2_ENABLED || DT_HAS_ST_STM32_DMA_V2BIS_ENABLED || DT_HAS_ST_STM32U5_DMA_ENABLED) && DT_HAS_ST_STM32_UART_ENABLED && SERIAL"
     ]
   ],
   [
@@ -4537,77 +4772,87 @@
     "y",
     "int",
     "50",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\serial\\Kconfig",
-      36
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      754
     ]
-  ],
-  [
-    "CONFIG_UART_ASYNC_API",
-    "y",
-    "bool",
-    null,
-    "unset",
-    null
   ],
   [
     "CONFIG_UART_LINE_CTRL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      755
+    ]
   ],
   [
     "CONFIG_UART_DRV_CMD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      756
+    ]
   ],
   [
     "CONFIG_UART_WIDE_DATA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      757
+    ]
   ],
   [
     "CONFIG_UART_PIPE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      758
+    ]
   ],
   [
     "CONFIG_UART_ASYNC_RX_HELPER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      759
+    ]
   ],
   [
     "CONFIG_UART_NPCX_FIFO_EX",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      764
+    ]
   ],
   [
     "CONFIG_UART_STM32",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\serial\\Kconfig.stm32",
-      8
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      765
     ]
   ],
   [
@@ -4634,27 +4879,30 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\serial\\Kconfig.stm32",
-      42
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_SMBUS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      769
+    ]
   ],
   [
     "CONFIG_STEPPER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      770
+    ]
   ],
   [
     "CONFIG_TIMER_HAS_64BIT_CYCLE_COUNTER",
@@ -4670,27 +4918,33 @@
     "CONFIG_TIMER_READS_ITS_FREQUENCY_AT_RUNTIME",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      776
+    ]
   ],
   [
     "CONFIG_SYSTEM_CLOCK_SLOPPY_IDLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      777
+    ]
   ],
   [
     "CONFIG_SYSTEM_CLOCK_INIT_PRIORITY",
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\timer\\Kconfig",
-      55
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      778
     ]
   ],
   [
@@ -4728,43 +4982,55 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\drivers\\timer\\Kconfig.cortex_m_systick",
-      32
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      782
     ]
   ],
   [
     "CONFIG_CORTEX_M_SYSTICK_LPM_TIMER_NONE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      783
+    ]
   ],
   [
     "CONFIG_CORTEX_M_SYSTICK_LPM_TIMER_COUNTER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      784
+    ]
   ],
   [
     "CONFIG_CORTEX_M_SYSTICK_LPM_TIMER_HOOKS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      785
+    ]
   ],
   [
     "CONFIG_CORTEX_M_SYSTICK_RESET_BY_LPM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      786
+    ]
   ],
   [
     "CONFIG_SYSTEM_TIMER_HAS_LPM_COMPANION_SUPPORT",
@@ -4781,152 +5047,206 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     null
   ],
   [
     "CONFIG_UAOL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      791
+    ]
   ],
   [
     "CONFIG_USB_BC12",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      792
+    ]
   ],
   [
     "CONFIG_UDC_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      793
+    ]
   ],
   [
     "CONFIG_UHC_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      794
+    ]
   ],
   [
     "CONFIG_UVB",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      795
+    ]
   ],
   [
     "CONFIG_USB_DEVICE_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      796
+    ]
   ],
   [
     "CONFIG_USBC_TCPC_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      803
+    ]
   ],
   [
     "CONFIG_USBC_VBUS_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      804
+    ]
   ],
   [
     "CONFIG_USBC_PPC_DRIVER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      805
+    ]
   ],
   [
     "CONFIG_VIDEO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      806
+    ]
   ],
   [
     "CONFIG_VIRTIO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      807
+    ]
   ],
   [
     "CONFIG_VIRTUALIZATION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      808
+    ]
   ],
   [
     "CONFIG_W1",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      809
+    ]
   ],
   [
     "CONFIG_WUC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      810
+    ]
   ],
   [
     "CONFIG_TEE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      811
+    ]
   ],
   [
     "CONFIG_REQUIRES_FULL_LIBC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      814
+    ]
   ],
   [
     "CONFIG_REQUIRES_FLOAT_PRINTF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      815
+    ]
   ],
   [
     "CONFIG_LIBC_ALLOW_LESS_THAN_64BIT_TIME",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      816
+    ]
   ],
   [
     "CONFIG_FULL_LIBC_SUPPORTED",
@@ -4973,11 +5293,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\Kconfig",
-      81
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_EXTERNAL_LIBC",
@@ -5001,17 +5318,23 @@
     "CONFIG_COMMON_LIBC_ASCTIME_R",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      828
+    ]
   ],
   [
     "CONFIG_COMMON_LIBC_CTIME_R",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      829
+    ]
   ],
   [
     "CONFIG_COMMON_LIBC_TIME",
@@ -5028,9 +5351,10 @@
     "y",
     "bool",
     "y",
-    "imply",
+    "assign",
     [
-      "PICOLIBC && PICOLIBC_SUPPORTED && <choice LIBC_IMPLEMENTATION>"
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      831
     ]
   ],
   [
@@ -5038,10 +5362,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\common\\Kconfig",
-      88
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      832
     ]
   ],
   [
@@ -5049,19 +5373,22 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\common\\Kconfig",
-      97
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      833
     ]
   ],
   [
     "CONFIG_COMMON_LIBC_REMOVE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      834
+    ]
   ],
   [
     "CONFIG_PICOLIBC_USE_MODULE",
@@ -5076,11 +5403,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\picolibc\\Kconfig",
-      9
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_PICOLIBC_IO_FLOAT",
@@ -5095,21 +5419,18 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\picolibc\\Kconfig",
-      35
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_STDOUT_CONSOLE",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\libc\\Kconfig",
-      173
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      839
     ]
   ],
   [
@@ -5127,87 +5448,111 @@
     "CONFIG_CPP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      846
+    ]
   ],
   [
     "CONFIG_SYS_HASH_FUNC32",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      856
+    ]
   ],
   [
     "CONFIG_SYS_HASH_MAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      862
+    ]
   ],
   [
     "CONFIG_SYS_HEAP_VALIDATE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      868
+    ]
   ],
   [
     "CONFIG_SYS_HEAP_STRESS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      869
+    ]
   ],
   [
     "CONFIG_SYS_HEAP_INFO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      870
+    ]
   ],
   [
     "CONFIG_SYS_HEAP_ALLOC_LOOPS",
     "y",
     "int",
     "3",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\heap\\Kconfig",
-      35
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      871
     ]
   ],
   [
     "CONFIG_SYS_HEAP_RUNTIME_STATS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      872
+    ]
   ],
   [
     "CONFIG_SYS_HEAP_ARRAY_SIZE",
     "y",
     "int",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\heap\\Kconfig",
-      56
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      873
     ]
   ],
   [
     "CONFIG_SYS_HEAP_LISTENER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      874
+    ]
   ],
   [
     "CONFIG_SYS_HEAP_HARDENING_NONE",
@@ -5222,11 +5567,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\heap\\Kconfig",
-      83
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_SYS_HEAP_HARDENING_MODERATE",
@@ -5268,11 +5610,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\heap\\Kconfig",
-      163
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_SYS_HEAP_BIG_ONLY",
@@ -5294,84 +5633,108 @@
     "CONFIG_MULTI_HEAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      884
+    ]
   ],
   [
     "CONFIG_SHARED_MULTI_HEAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      885
+    ]
   ],
   [
     "CONFIG_SYS_MEM_BLOCKS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      891
+    ]
   ],
   [
     "CONFIG_MIDI2_UMP_STREAM_RESPONDER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      897
+    ]
   ],
   [
     "CONFIG_NET_BUF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      900
+    ]
   ],
   [
     "CONFIG_ZVFS_OPEN_IGNORE_MIN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      905
+    ]
   ],
   [
     "CONFIG_PRINTK_SYNC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      906
+    ]
   ],
   [
     "CONFIG_MPSC_PBUF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      907
+    ]
   ],
   [
     "CONFIG_SPSC_PBUF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      908
+    ]
   ],
   [
     "CONFIG_CBPRINTF_COMPLETE",
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\os\\Kconfig.cbprintf",
-      6
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_CBPRINTF_NANO",
@@ -5386,11 +5749,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\os\\Kconfig.cbprintf",
-      29
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_CBPRINTF_REDUCED_INTEGRAL",
@@ -5404,41 +5764,56 @@
     "CONFIG_CBPRINTF_FP_SUPPORT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      913
+    ]
   ],
   [
     "CONFIG_CBPRINTF_FP_A_SUPPORT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      914
+    ]
   ],
   [
     "CONFIG_CBPRINTF_LIBC_SUBSTS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      915
+    ]
   ],
   [
     "CONFIG_CBPRINTF_PACKAGE_LONGDOUBLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      916
+    ]
   ],
   [
     "CONFIG_CBPRINTF_STATIC_PACKAGE_CHECK_ALIGNMENT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      917
+    ]
   ],
   [
     "CONFIG_CBPRINTF_CONVERT_CHECK_PTR",
@@ -5455,33 +5830,45 @@
     "CONFIG_ZVFS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      919
+    ]
   ],
   [
     "CONFIG_CPU_LOAD_METRIC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      920
+    ]
   ],
   [
     "CONFIG_POSIX_SYSTEM_INTERFACES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      926
+    ]
   ],
   [
     "CONFIG_POSIX_API",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      927
+    ]
   ],
   [
     "CONFIG_POSIX_AEP_CHOICE_NONE",
@@ -5496,11 +5883,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\posix\\Kconfig.profile",
-      29
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_POSIX_AEP_CHOICE_BASE",
@@ -5568,36 +5952,42 @@
     "CONFIG_EVENTFD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      944
+    ]
   ],
   [
     "CONFIG_SMF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      945
+    ]
   ],
   [
     "CONFIG_LIBGCC_RTLIB",
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\runtime\\Kconfig",
-      13
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_JSON_LIBRARY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      951
+    ]
   ],
   [
     "CONFIG_RING_BUFFER",
@@ -5613,49 +6003,67 @@
     "CONFIG_RING_BUFFER_LARGE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      953
+    ]
   ],
   [
     "CONFIG_NOTIFY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      954
+    ]
   ],
   [
     "CONFIG_BASE64",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      955
+    ]
   ],
   [
     "CONFIG_ONOFF",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      956
+    ]
   ],
   [
     "CONFIG_UTF8",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      957
+    ]
   ],
   [
     "CONFIG_COBS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      958
+    ]
   ],
   [
     "CONFIG_GETOPT",
@@ -5671,108 +6079,144 @@
     "CONFIG_GETOPT_LONG",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      960
+    ]
   ],
   [
     "CONFIG_TIMEUTIL_APPLY_SKEW",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\lib\\utils\\Kconfig",
-      103
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      961
     ]
   ],
   [
     "CONFIG_UUID",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      967
+    ]
   ],
   [
     "CONFIG_MIN_HEAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      970
+    ]
   ],
   [
     "CONFIG_BINDESC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      976
+    ]
   ],
   [
     "CONFIG_BT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      977
+    ]
   ],
   [
     "CONFIG_CONSOLE_SUBSYS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      984
+    ]
   ],
   [
     "CONFIG_CPU_FREQ",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      985
+    ]
   ],
   [
     "CONFIG_CRC",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      986
+    ]
   ],
   [
     "CONFIG_DAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      987
+    ]
   ],
   [
     "CONFIG_THREAD_ANALYZER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      992
+    ]
   ],
   [
     "CONFIG_DEBUG",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      998
+    ]
   ],
   [
     "CONFIG_UBSAN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      999
+    ]
   ],
   [
     "CONFIG_STACK_USAGE",
@@ -5781,17 +6225,20 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      9
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1000
     ]
   ],
   [
     "CONFIG_STACK_SENTINEL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1001
+    ]
   ],
   [
     "CONFIG_PRINTK",
@@ -5817,60 +6264,78 @@
     "CONFIG_FORCE_NO_ASSERT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1004
+    ]
   ],
   [
     "CONFIG_ASSERT_VERBOSE",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\subsys\\debug\\Kconfig",
-      240
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1005
     ]
   ],
   [
     "CONFIG_ASSERT_NO_FILE_INFO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1006
+    ]
   ],
   [
     "CONFIG_ASSERT_NO_COND_INFO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1007
+    ]
   ],
   [
     "CONFIG_ASSERT_NO_MSG_INFO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1008
+    ]
   ],
   [
     "CONFIG_ASSERT_TEST",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1009
+    ]
   ],
   [
     "CONFIG_OVERRIDE_FRAME_POINTER_DEFAULT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1010
+    ]
   ],
   [
     "CONFIG_DEBUG_THREAD_INFO",
@@ -5879,236 +6344,317 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      7
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1011
     ]
   ],
   [
     "CONFIG_DEBUG_COREDUMP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1012
+    ]
   ],
   [
     "CONFIG_SYMTAB",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1013
+    ]
   ],
   [
     "CONFIG_MIPI_STP_DECODER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1016
+    ]
   ],
   [
     "CONFIG_CS_TRACE_DEFMT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1017
+    ]
   ],
   [
     "CONFIG_CPU_LOAD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1018
+    ]
   ],
   [
     "CONFIG_DISK_ACCESS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1019
+    ]
   ],
   [
     "CONFIG_DSP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1020
+    ]
   ],
   [
     "CONFIG_EMUL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1021
+    ]
   ],
   [
     "CONFIG_CHARACTER_FRAMEBUFFER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1022
+    ]
   ],
   [
     "CONFIG_FILE_SYSTEM_LIB_LINK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1027
+    ]
   ],
   [
     "CONFIG_FILE_SYSTEM",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1028
+    ]
   ],
   [
     "CONFIG_GNSS_RTK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1031
+    ]
   ],
   [
     "CONFIG_INSTRUMENTATION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1032
+    ]
   ],
   [
     "CONFIG_RPMSG_SERVICE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1037
+    ]
   ],
   [
     "CONFIG_IPC_SERVICE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1038
+    ]
   ],
   [
     "CONFIG_OPENAMP_RSC_TABLE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1039
+    ]
   ],
   [
     "CONFIG_JWT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1042
+    ]
   ],
   [
     "CONFIG_ZMS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1047
+    ]
   ],
   [
     "CONFIG_LLEXT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1050
+    ]
   ],
   [
     "CONFIG_LLEXT_EDK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1051
+    ]
   ],
   [
     "CONFIG_LOG_OUTPUT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1056
+    ]
   ],
   [
     "CONFIG_MEM_ATTR",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\subsys\\mem_mgmt\\Kconfig",
-      6
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1059
     ]
   ],
   [
     "CONFIG_MEM_ATTR_HEAP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1060
+    ]
   ],
   [
     "CONFIG_EC_HOST_CMD",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1069
+    ]
   ],
   [
     "CONFIG_OSDP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1072
+    ]
   ],
   [
     "CONFIG_MODBUS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1075
+    ]
   ],
   [
     "CONFIG_MODEM_MODULES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1076
+    ]
   ],
   [
     "CONFIG_NETWORKING",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1081
+    ]
   ],
   [
     "CONFIG_HAS_PM",
@@ -6124,43 +6670,55 @@
     "CONFIG_PM_POLICY_LATENCY_STANDALONE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1088
+    ]
   ],
   [
     "CONFIG_MCTP",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1094
+    ]
   ],
   [
     "CONFIG_PROFILING",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1102
+    ]
   ],
   [
     "CONFIG_TEST_RANDOM_GENERATOR",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1107
+    ]
   ],
   [
     "CONFIG_TIMER_RANDOM_INITIAL_STATE",
     "y",
     "int",
     "123456789",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\subsys\\random\\Kconfig",
-      33
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1108
     ]
   ],
   [
@@ -6178,220 +6736,298 @@
     "CONFIG_CSPRNG_NEEDED",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1110
+    ]
   ],
   [
     "CONFIG_RTIO",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1113
+    ]
   ],
   [
     "CONFIG_MMC_STACK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1118
+    ]
   ],
   [
     "CONFIG_SDMMC_STACK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1119
+    ]
   ],
   [
     "CONFIG_SDIO_STACK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1120
+    ]
   ],
   [
     "CONFIG_SECURE_STORAGE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1123
+    ]
   ],
   [
     "CONFIG_SETTINGS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1124
+    ]
   ],
   [
     "CONFIG_SHELL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1125
+    ]
   ],
   [
     "CONFIG_STATS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1126
+    ]
   ],
   [
     "CONFIG_STREAM_FLASH",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1131
+    ]
   ],
   [
     "CONFIG_TASK_WDT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1134
+    ]
   ],
   [
     "CONFIG_ZTEST",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1139
+    ]
   ],
   [
     "CONFIG_ZTEST_MOCKING",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1140
+    ]
   ],
   [
     "CONFIG_ZTRESS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1141
+    ]
   ],
   [
     "CONFIG_ZTEST_BENCHMARK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1146
+    ]
   ],
   [
     "CONFIG_TEST",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1149
+    ]
   ],
   [
     "CONFIG_TEST_USERSPACE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1150
+    ]
   ],
   [
     "CONFIG_FORCE_COVERAGE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1156
+    ]
   ],
   [
     "CONFIG_COVERAGE_DUMP_PATH_EXCLUDE",
     "y",
     "string",
     "",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\subsys\\testsuite\\Kconfig.coverage",
-      96
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1157
     ]
   ],
   [
     "CONFIG_TIMING_FUNCTIONS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1160
+    ]
   ],
   [
     "CONFIG_TRACING",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1161
+    ]
   ],
   [
     "CONFIG_USB_DEVICE_STACK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1162
+    ]
   ],
   [
     "CONFIG_USB_DEVICE_STACK_NEXT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1163
+    ]
   ],
   [
     "CONFIG_USB_HOST_STACK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1164
+    ]
   ],
   [
     "CONFIG_USBC_STACK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1165
+    ]
   ],
   [
     "CONFIG_ZBUS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1166
+    ]
   ],
   [
     "CONFIG_MODULES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1167
+    ]
   ],
   [
     "CONFIG_TOOLCHAIN_ZEPHYR_1_0",
@@ -6450,11 +7086,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      62
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_LINKER_ORPHAN_SECTION_ERROR",
@@ -6469,10 +7102,10 @@
     "y",
     "hex",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      145
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1185
     ]
   ],
   [
@@ -6480,10 +7113,10 @@
     "y",
     "hex",
     "0",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      173
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1186
     ]
   ],
   [
@@ -6502,11 +7135,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      188
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_CMAKE_LINKER_GENERATOR",
@@ -6520,36 +7150,45 @@
     "CONFIG_HAVE_CUSTOM_LINKER_SCRIPT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1190
+    ]
   ],
   [
     "CONFIG_LINKER_SORT_BY_ALIGNMENT",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      238
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1191
     ]
   ],
   [
     "CONFIG_LINKER_USE_BOOT_SECTION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1196
+    ]
   ],
   [
     "CONFIG_LINKER_USE_PINNED_SECTION",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1197
+    ]
   ],
   [
     "CONFIG_LINKER_GENERIC_SECTIONS_PRESENT_AT_BOOT",
@@ -6567,10 +7206,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      312
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1199
     ]
   ],
   [
@@ -6578,10 +7217,10 @@
     "y",
     "hex",
     "0xE015E015",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      328
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1200
     ]
   ],
   [
@@ -6610,9 +7249,12 @@
     "CONFIG_LINKER_DEVNULL_MEMORY",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1205
+    ]
   ],
   [
     "CONFIG_STD_C90",
@@ -6643,11 +7285,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      411
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_STD_C23",
@@ -6671,25 +7310,34 @@
     "CONFIG_GNU_C_EXTENSIONS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1217
+    ]
   ],
   [
     "CONFIG_CODING_GUIDELINE_CHECK",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1218
+    ]
   ],
   [
     "CONFIG_COMPILER_FREESTANDING",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1219
+    ]
   ],
   [
     "CONFIG_SIZE_OPTIMIZATIONS",
@@ -6735,35 +7383,44 @@
     "CONFIG_COMPILER_WARNINGS_AS_ERRORS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1225
+    ]
   ],
   [
     "CONFIG_DEPRECATION_TEST",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1226
+    ]
   ],
   [
     "CONFIG_COMPILER_SAVE_TEMPS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1227
+    ]
   ],
   [
     "CONFIG_COMPILER_TRACK_MACRO_EXPANSION",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      589
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1228
     ]
   ],
   [
@@ -6771,10 +7428,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      597
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1229
     ]
   ],
   [
@@ -6790,11 +7447,8 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      604
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_FORTIFY_SOURCE_RUN_TIME",
@@ -6808,17 +7462,23 @@
     "CONFIG_COMPILER_OPT",
     "y",
     "string",
-    null,
-    "unset",
-    null
+    "",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1233
+    ]
   ],
   [
     "CONFIG_MISRA_SANE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1234
+    ]
   ],
   [
     "CONFIG_TOOLCHAIN_SUPPORTS_VLA_IN_STATEMENTS",
@@ -6846,20 +7506,20 @@
     "CONFIG_SCOPE_CLEANUP_HELPERS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1237
+    ]
   ],
   [
     "CONFIG_COMPILER_CODEGEN_VLIW_AUTO",
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      676
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_COMPILER_CODEGEN_VLIW_ENABLED",
@@ -6898,21 +7558,18 @@
     "y",
     "bool",
     "y",
-    "default",
-    [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      707
-    ]
+    "assign",
+    null
   ],
   [
     "CONFIG_KERNEL_BIN_NAME",
     "y",
     "string",
     "zephyr",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      731
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1255
     ]
   ],
   [
@@ -6922,8 +7579,8 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      14
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1256
     ]
   ],
   [
@@ -6933,8 +7590,8 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      13
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1257
     ]
   ],
   [
@@ -6942,19 +7599,22 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      761
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1258
     ]
   ],
   [
     "CONFIG_OUTPUT_DISASSEMBLY_NO_ALIASES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1259
+    ]
   ],
   [
     "CONFIG_OUTPUT_PRINT_MEMORY_USAGE",
@@ -6963,124 +7623,163 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      16
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1260
     ]
   ],
   [
     "CONFIG_CLEANUP_INTERMEDIATE_FILES",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1261
+    ]
   ],
   [
     "CONFIG_BUILD_GAP_FILL_PATTERN",
     "y",
     "hex",
     "0xFF",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      800
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1262
     ]
   ],
   [
     "CONFIG_BUILD_NO_GAP_FILL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1263
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_HEX_GAP_FILL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1264
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_EXE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1265
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_S19_GAP_FILL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1266
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_VERILOG",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1267
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_UF2",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1268
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_MOT",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1269
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_STRIPPED",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1270
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_COMPRESS_DEBUG_SECTIONS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1271
+    ]
   ],
   [
     "CONFIG_BUILD_ALIGN_LMA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1272
+    ]
   ],
   [
     "CONFIG_APPLICATION_DEFINED_SYSCALL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1273
+    ]
   ],
   [
     "CONFIG_MAKEFILE_EXPORTS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1274
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_META",
@@ -7089,27 +7788,30 @@
     "y",
     "assign",
     [
-      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/prj.conf",
-      12
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1275
     ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_META_STATE_PROPAGATE",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1276
+    ]
   ],
   [
     "CONFIG_BUILD_OUTPUT_STRIP_PATHS",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      1059
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1277
     ]
   ],
   [
@@ -7117,75 +7819,87 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      1073
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1278
     ]
   ],
   [
     "CONFIG_EMIT_ALL_SYSCALLS",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1279
+    ]
   ],
   [
     "CONFIG_WARN_DEPRECATED",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      1105
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1282
     ]
   ],
   [
     "CONFIG_WARN_EXPERIMENTAL",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1283
+    ]
   ],
   [
     "CONFIG_ENFORCE_ZEPHYR_STDINT",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      1141
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1284
     ]
   ],
   [
     "CONFIG_IS_BOOTLOADER",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1290
+    ]
   ],
   [
     "CONFIG_BOOTLOADER_BOSSA",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "n",
+    "assign",
+    [
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1291
+    ]
   ],
   [
     "CONFIG_LEGACY_GENERATED_INCLUDE_PATH",
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\Users\\yukis\\ZephyrWorkbench\\ASDP4_Workspace\\deps\\zephyr\\Kconfig.zephyr",
-      1211
+      "C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/.config",
+      1297
     ]
   ]
 ]

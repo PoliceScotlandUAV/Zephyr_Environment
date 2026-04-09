@@ -35,12 +35,11 @@ west:
   manifest: C:\Users\yukis\ZephyrWorkbench\ASDP4_Workspace\manifest\west.yml
   projects:
   - path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/manifest
-    revision: unknown
+    remote: https://github.com/PoliceScotlandUAV/Zephyr_Environment.git
+    revision: 6a8d54fdf6d45bfc0040f0601f7489fcb331531d-dirty
   - path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr
     remote: https://github.com/zephyrproject-rtos/zephyr
-    revision: 77b0ef9da94480c4aced17e5484e306ced186db2
-    tags:
-    - v4.4.0-rc1
+    revision: 77b0ef9da94480c4aced17e5484e306ced186db2-dirty
   - name: cmsis
     path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/cmsis
     remote: https://github.com/zephyrproject-rtos/cmsis
@@ -74,12 +73,10 @@ west:
     remote: https://github.com/zephyrproject-rtos/segger
     revision: 50892fdbcf2f570e67baa72b8894a66b16946f72
 workspace:
-  dirty: false
+  dirty: true
   extra: false
-  'off': true
+  'off': false
 zephyr:
   path: C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr
   remote: https://github.com/zephyrproject-rtos/zephyr
-  revision: 77b0ef9da94480c4aced17e5484e306ced186db2
-  tags:
-  - v4.4.0-rc1
+  revision: 77b0ef9da94480c4aced17e5484e306ced186db2-dirty

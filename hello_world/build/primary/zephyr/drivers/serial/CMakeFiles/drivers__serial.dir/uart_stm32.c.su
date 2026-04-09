@@ -1,8 +1,9 @@
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/hello_world/build/primary/zephyr/include/generated/zephyr/syscalls/reset.h:99:19:reset_line_toggle	8	static
-C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/modules/hal/stm32/stm32cube/stm32h5xx/drivers/include/stm32h5xx_ll_lpuart.h:1374:22:LL_LPUART_SetBaudRate	16	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:218:19:uart_stm32_set_baudrate	24	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:387:20:uart_stm32_set_driver_enable	0	static
-C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:433:24:uart_stm32_cfg2ll_stopbits	0	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:516:42:uart_stm32_ll2cfg_databits	0	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:582:12:uart_stm32_parameters_set	24	static
+C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:649:12:uart_stm32_configure	24	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:718:12:uart_stm32_config_get	16	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:745:12:uart_stm32_poll_in_visitor	8	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:771:13:uart_stm32_poll_out_visitor	8	static
@@ -13,9 +14,5 @@ C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_s
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:863:12:uart_stm32_err_check	0	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:2266:12:uart_stm32_clocks_enable	8	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/include/zephyr/drivers/pinctrl.h:345:19:pinctrl_apply_state	16	static
-C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:129:10:lpuartdiv_calc	16	static
-C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:218:19:uart_stm32_set_baudrate	24	static
-C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:582:12:uart_stm32_parameters_set	32	static
-C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:649:12:uart_stm32_configure	40	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:2291:12:uart_stm32_registers_configure	24	static
 C:/Users/yukis/ZephyrWorkbench/ASDP4_Workspace/deps/zephyr/drivers/serial/uart_stm32.c:2419:12:uart_stm32_init	16	static
